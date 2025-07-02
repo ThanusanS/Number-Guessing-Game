@@ -1,4 +1,4 @@
-# 🎯 Number Guessing Game.
+# 🎯 Number Guessing Game
 
 A simple Python-based number guessing game where the player tries to guess a randomly generated number within a specified range. Great for beginners learning about conditionals, loops, and user input in Python!
 
